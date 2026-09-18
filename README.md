@@ -79,3 +79,22 @@ Includes:
 - West region performs best in both sales and profit.
 - Higher discounts are strongly associated with lower profitability.
 - Q4 months show stronger sales performance.
+
+  # Dashboard Screenshots
+
+## Executive Summary
+
+![Executive Summary](screenshots/executive_summary_pbi.png)
+
+---
+
+## Regional Analysis
+
+![Regional Analysis](screenshots/regional_analysis_pbi.png)
+
+---
+
+## Product & Category Analysis
+
+![Product & Category Analysis](screenshots/product_and_category_analysis_pbi.png)
+
